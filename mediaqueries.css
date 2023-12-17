@@ -68,6 +68,10 @@
     .btn-container {
       flex-wrap: wrap;
     }
+    .details-container {
+      padding-left: 3rem;
+      padding-right: 3rem;
+    }
     .contact-info-container {
       margin: 0;
     }
